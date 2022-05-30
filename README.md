@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @LORD-XD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LORD-XD/LORD-XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+KATA PERINTAH TERMUX
+git clone https://github.com/ LOR-XD/spam-call
+ls
+cd spam-call
+ls
+python spam-call.py
